@@ -17,6 +17,9 @@ ul.nav{
 }
 .jumbotron{
 	text-align: center;
+	background: url('../images/hero_image.jpg') no-repeat;
+    background-size: cover;
+	color: white;
 }
 .jumbotron h1{
 	margin-top: 0;
