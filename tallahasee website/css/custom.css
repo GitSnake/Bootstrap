@@ -6,6 +6,10 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
 .right{
 	float: right;
 }
