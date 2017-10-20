@@ -6,14 +6,11 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
-ul.nav{
+ul.nav, .jumbotron h1{
 	font-family: 'Arvo', coureir, serif;
 }
 .jumbotron{
 	text-align: center;
-}
-.jumbotron h1{
-	font-family: 'Arvo', coureir, serif;
 }
 .btn-lg{
 	font-size: 36px;
